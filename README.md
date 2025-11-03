@@ -43,7 +43,7 @@ Porque cada gene conta uma história, e cada grau revela um desafio. Nesta jorna
 - Interpretação de variáveis com SHAP e LIME
 
 ## 📁 Organização do Repositório
-- `ProjetoFinal_SHAPLIME`: Caderno Jupyter com análises exploratórias, pré-processamento e modelagem.
+- `ProjetoFinal_Glioma`: Caderno Jupyter com análises exploratórias, pré-processamento e modelagem.
 - `TCGA_GBM_LGG_Mutations_all.csv`: Conjunto de dados originais.
 - `TCGA_InfoWithGrade.csv`: Conjunto de dados utilizados no projeto (com dados pré-processados).
 - `brasao.png`: Brasão da Equipe
