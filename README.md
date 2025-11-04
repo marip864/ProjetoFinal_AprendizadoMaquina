@@ -10,7 +10,7 @@ Instituição de ensino vinculada aos desenvolvedores e colaboradores do Projeto
 
 <p align="center">
 
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>  ![Made withPython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>  ![Made withPython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
 
@@ -43,7 +43,7 @@ Porque cada gene conta uma história, e cada grau revela um desafio. Nesta jorna
 - Interpretação de variáveis com SHAP e LIME
 
 ## 📁 Organização do Repositório
-- `ProjetoFinal_Glioma`: Caderno Jupyter com análises exploratórias, pré-processamento e modelagem.
+- `ProjetoFinal_Glioma.ipynb`: Caderno Jupyter com análises exploratórias, pré-processamento e modelagem.
 - `TCGA_GBM_LGG_Mutations_all.csv`: Conjunto de dados originais.
 - `TCGA_InfoWithGrade.csv`: Conjunto de dados utilizados no projeto (com dados pré-processados).
 - `brasao.png`: Brasão da Equipe
